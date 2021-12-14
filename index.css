@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(2, 2, 22);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    color: whitesmoke;
+    margin-top: 15%;
+}
+#clock{
+    background-color: black;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-size: 30px;
+    border: 4px solid gray;
+    border-radius: 30px;
+    padding: 30px;
+}
